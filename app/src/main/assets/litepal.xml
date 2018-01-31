@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version value="1" />
+
+    <list>
+
+        <mapping class="com.mryang.coolweather.db.Province" />
+        <mapping class="com.mryang.coolweather.db.City" />
+        <mapping class="com.mryang.coolweather.db.County" />
+    </list>
+
+</litepal>
